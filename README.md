@@ -27,7 +27,7 @@ Sistema designado à hospitais, upas e clinicas. Indispensável no combate ao Co
 
 ### Passos para Instalação:
 
-- Baixe e extraía o arquivo no seu servidor local
+- Necessário Docker para instalação do projeto em sua máquina, ou use seu servidor local.
 
 **No terminal intregado do Visual Studio Code, realize os seguintes comandos (EM SEQUÊNCIA):**
 - composer install
